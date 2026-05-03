@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bo6326soa5c2q"]
+
+[ext_resource type="Script" uid="uid://ds1uyfmsfrwlh" path="res://sprite.gd" id="1_7x8yt"]
+
+[node name="TmpScene" type="Node2D" unique_id=91087087]
+script = ExtResource("1_7x8yt")
